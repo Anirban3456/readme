@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Anirban. I am an aspiring data analyst from the Vellore Institute of Technology. I love interacting with data to create something meaningful out of it. I hope you will enjoy your stay.  :)
+Hi! I am Anirban. I am an aspiring data analyst from the Vellore Institute of Technology. I love interacting with data to create something meaningful out of it. I hope you will enjoy your stay.  :))
 
 
 ## 🌐 Socials:
